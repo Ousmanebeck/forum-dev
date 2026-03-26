@@ -1,4 +1,4 @@
-forum-dev.free.nf
+https://forum-dev.free.nf
 # Forum Dev
 
 **Documentation & Guide d'installation**
